@@ -1,7 +1,6 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
-  "homepage": "https://AdarshKashyap14.github.io/weather-app",
   "private": true,
   "dependencies": {
     "@nivo/core": "^0.80.0",
@@ -18,7 +17,7 @@
     "uniqid": "^5.4.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
